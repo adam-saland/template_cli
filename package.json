@@ -9,8 +9,15 @@
   "author": "@adam-saland",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^2.4.2",
+    "concurrently": "^4.1.1",
+    "figlet": "^1.2.3",
     "hadouken-js-adapter": "^0.42.2",
     "inquirer": "^6.5.0",
+    "inquirer-checkbox-plus-prompt": "^1.0.1",
     "simple-git": "^1.122.0"
+  },
+  "devDependencies": {
+    "fuzzy": "^0.1.3"
   }
 }
